@@ -10,4 +10,5 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=VectorLima&theme=dark" height="200px" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VectorLima&theme=dark" height="200px" />
 </div>
+<hr>
 
