@@ -4,7 +4,6 @@
 <div style="background: rgb(238,174,202);">
   <h1 align="center">Olá, sou o Victor</h1>
 <h3 align="center">Exploring the Boundless Horizons of Code: Crafting Digital Dreams, One Line at a Time</h3>
-![Victor Lima Status](https://github-readme-stats.vercel.app/api?username=VectorLimae&show_icons=true)
 - 🔭 I’m currently working on **Minuano**
 
 - 🌱 I’m currently learning **React, Vue**
